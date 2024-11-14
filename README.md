@@ -1,6 +1,8 @@
 # JS Closure Exercises
 These exercises come from the Front End Masters course [Javascript: The Hard Parts with Will Sentance](https://frontendmasters.com/courses/javascript-hard-parts-v2/). I particularly enjoyed learning about backpacks… I mean closures. So I want to keep these challenges so I can revisit them later.
 
+Javascript is a lexically scoped language. [Link](https://www.freecodecamp.org/news/javascript-lexical-scope-tutorial/)
+
 #### Helpfull Links:
 [I never understood JavaScript closures](https://medium.com/dailyjs/i-never-understood-javascript-closures-9663703368e8)
 <br/>
